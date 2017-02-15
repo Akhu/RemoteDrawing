@@ -52,7 +52,11 @@ Histoire de prendre en main les différents projets.
 ---
 
 ### 4) Pour aller plus loin :
-**a)** On veux garder une trace de toutes activitées lié au serveur. Pour cela votre chef de projet décide d'utiliser un SGBD non relationnel : `MongoDB`. Ce SGBD devra :
+**a)** L'utilisateur aimerait bien identifier qui dessine en temps réel pour cela : 
+- ```Ajouter une fenetre au démarrage pour pouvoir ajouter un pseudo```
+- ```Le pseudo doit apparaitre en temps réel avec le trait de dessin d'un utilisateur sur l'écran des autres utilisateurs```
+
+**b)** On veux garder une trace de toutes activitées lié au serveur. Pour cela votre chef de projet décide d'utiliser un SGBD non relationnel : `MongoDB`. Ce SGBD devra :
 - ```Enregistrer toutes les couleurs```
 - ```Enregistrer les dessins```
 - ```Enregistrer les utilisateurs```
